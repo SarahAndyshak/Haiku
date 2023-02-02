@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import Rectangle from '../src/js/rectangle.js';
 
 describe('Rectangle', () => {
