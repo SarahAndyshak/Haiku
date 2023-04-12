@@ -1,8 +1,34 @@
+<!DOCTYPE html>
 <html lang="en-US">
+
 <head>
+    <title>Haiku Checker</title>
 </head>
+
 <body>
-  <div>Hello world!</div>
-  <img src="./assets/images/stock-puppy-photo.jpg" alt="such a pup!">
+    <h1>Please Enter your Haiku line by line</h1>
+    <br>
+    <form id="haiku-form">
+        <div class="line1">
+            <label for="line1">line 1:</label>
+            <input id="line1" type="text" name="line1" required>
+        </div>
+        <br>
+        <div class="line2">
+            <label for="line2">line 2:</label>
+            <input id="line2" type="text" name="line2" required>
+        </div>
+        <br>
+        <div class="line3">
+            <label for="line3">line 3:</label>
+            <input id="line3" type="text" name="line3" required>
+        </div>
+        <br>
+        <button type="submit" class="btn btn-info">Check Poem</button>
+
+    </form>
+    <br>
+    <div id ="results"></div>
 </body>
+
 </html>

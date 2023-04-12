@@ -20,14 +20,11 @@
 * node.js
 
 ## Description
+An application that checks if poems are haiku, and creates haiku.
 
 ## Setup/Installation Requirements
 
 * Clone the repository to your computer.
-<!-- * If needed, sign up for an account with API at the developer site.
-* Get an API key by clicking "Create an App." -->
-* Create a file '.env' and place it in the root folder of the downloaded repository.
-Include API_KEY={your API key} in the text of the .env file.
 * Navigate to the root folder of this downloaded repository in your terminal.
 * For Mac users, check that the setting in package.json looks like this “lint”: “eslint ‘src/**/*.js’”
 * Run npm install.
@@ -36,8 +33,7 @@ Include API_KEY={your API key} in the text of the .env file.
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* No known bugs.
 
 ## License
 Enjoy the site! If you have questions or suggestions for fixing the code, please contact me!
