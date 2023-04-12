@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Sarah Andyshak, Christ Johnedis, David Jandron, John Lenz, Luckie, and Mesha Devan
 
 ## Technologies Used
 
@@ -42,7 +42,7 @@ Include API_KEY={your API key} in the text of the .env file.
 ## License
 Enjoy the site! If you have questions or suggestions for fixing the code, please contact me!
 
-MIT License Copyright (c) 2023 Sarah Andyshak. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+MIT License Copyright (c) 2023 Sarah Andyshak, Christ Johnedis, David Jandron, John Lenz, Luckie, and Mesha Devan. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
