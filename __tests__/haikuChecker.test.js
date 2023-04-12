@@ -1,9 +1,6 @@
 /* eslint-disable no-undef */
-// import { countVowels } from "../src/js/haikuChecker";
+// import {  } from "../src/js/haikuChecker";
 
-// describe ('countVowels', () => {
-//   test('should count vowels inputted')
-// });
 
 
 // describe('Triangle', () => {
