@@ -1,10 +1,10 @@
-# (Application Name)
+# 🌸 Haiku Checker and Generator 🌸
 
-#### (Brief Description of Application)
+#### An application to check if inputted poems are haiku.
 
 #### By Sarah Andyshak, Christ Johnedis, David Jandron, John Lenz, Luckie, and Mesha Devan
 
-## Technologies Used
+## 🐡 Technologies Used
 
 * HTML
 * CSS
@@ -19,10 +19,10 @@
 * npm
 * node.js
 
-## Description
+## 🌸 Description 🌸
 An application that checks if poems are haiku, and creates haiku.
 
-## Setup/Installation Requirements
+## 🐡 Setup/Installation Requirements
 
 * Clone the repository to your computer.
 * Navigate to the root folder of this downloaded repository in your terminal.
@@ -31,11 +31,11 @@ An application that checks if poems are haiku, and creates haiku.
 * Run npm run start to open the page in your default browser.
 * Open index.html in your browser and follow the directions given on the webpage OR by using the liveserver.
 
-## Known Bugs
+## 🐡 Known Bugs
 
 * No known bugs.
 
-## License
+## 🐡 License
 Enjoy the site! If you have questions or suggestions for fixing the code, please contact me!
 
 MIT License Copyright (c) 2023 Sarah Andyshak, Christ Johnedis, David Jandron, John Lenz, Luckie, and Mesha Devan. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
