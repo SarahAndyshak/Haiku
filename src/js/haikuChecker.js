@@ -23,6 +23,7 @@ export const countDif = (string) => {
   return counter;
 };
 
+// edge cases
 export const hiddenVowel = (string) => {
   const vowels = ["e"];
   let counter = 0;
