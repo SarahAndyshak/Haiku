@@ -33,7 +33,7 @@ An application that checks if poems are haiku, and creates haiku.
 
 ## 🐡 Known Bugs
 
-* No known bugs.
+* French words are not supported. Separate compound words.
 
 ## 🐡 License
 Enjoy the site! If you have questions or suggestions for fixing the code, please contact me!
