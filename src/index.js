@@ -20,6 +20,11 @@ function handleFormSubmission(event) {
   console.log(two);
   console.log(three);
 
+  const useTheRegEx = (line) => {
+    const matches = line.match(/[^aeiou]?[aeiouy]+([^aeiou]?(?=\b || ?=[^aeiou])[e]?)/ig);
+    return matches.length;
+  };
+  useTheRegEx('negative four for tree');
   
   if (one && three === 5 && two === 7) {
     div.innerText = "DUUUUDE!!! You did it! Hell yeah! Rad haiku!!!";
